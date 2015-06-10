@@ -1,2 +1,2 @@
 # Projects
-Projects developed.
+Projects developed while learning Java/Android development.
